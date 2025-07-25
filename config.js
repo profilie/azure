@@ -5,9 +5,11 @@ const CONFIG = {
 	// Basic Profile Information
 	profile: {
 		image: "https://profilie.github.io/media/logo.png",
-		name: "Profilie Starter Kit",
-		description: `A free pre-built templates for social profiles, portfolios & websites. Quickly create a sweet-looking website to highlight your social media presence.
-                  
+		name: "Profilie - Azure Theme",
+		description: `The Azure theme features a clean, sky-blue palette inspired by serene skies and expansive horizons.
+  		  <br />
+  		  Quickly create a sweet-looking website to highlight your social media presence.
+                  <br />
                   Customize your profile by visiting your <code>config.js</code> file in your own repository. You can also change this description to your desired one.`,
 
     // You may change the footer of your profile but keeping it intact will be appreciated.
