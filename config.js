@@ -4,7 +4,7 @@
 const CONFIG = {
 	// Basic Profile Information
 	profile: {
-		image: "https://profilie.github.io/media/logo.png",
+		image: "https://profilie.js.org/media/logo.png",
 		name: "Profilie - Azure Theme",
 		description: `The Azure theme features a clean, sky-blue palette inspired by serene skies and expansive horizons.
   		  <br />
@@ -13,7 +13,7 @@ const CONFIG = {
                   Customize your profile by visiting your <code>config.js</code> file in your own repository. You can also change this description to your desired one.`,
 
     // You may change the footer of your profile but keeping it intact will be appreciated.
-		footer: "Powered by <a href='https://github.com/profilie/starter' target='_blank'>Profilie</a> - Free Templates for Social Profiles"
+		footer: "Powered by <a href='https://github.com/profilie/profilie' target='_blank'>Profilie</a> - Free Templates for Social Profiles"
 	},
 
 	// Social Media Links
