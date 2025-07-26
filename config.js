@@ -23,21 +23,21 @@ const CONFIG = {
 		// Popular Development Platforms
 		github: {
 			enabled: true,
-			url: "https://github.com/profilie",
+			url: "https://github.com/profilie/",
 			title: "GitHub"
 		},
 		gitlab: {
-			enabled: true,
+			enabled: false,
 			url: "https://gitlab.com/your-username",
 			title: "GitLab"
 		},
 		bitbucket: {
-			enabled: true,
+			enabled: false,
 			url: "https://bitbucket.org/your-username",
 			title: "Bitbucket"
 		},
 		codepen: {
-			enabled: true,
+			enabled: false,
 			url: "https://codepen.io/your-username",
 			title: "CodePen"
 		},
@@ -54,13 +54,13 @@ const CONFIG = {
 
 		// Communication Platforms
 		discord: {
-			enabled: true,
+			enabled: false,
 			url: "https://discord.com/users/your-user-id",
 			title: "Discord"
 		},
 		email: {
 			enabled: true,
-			url: "mailto:profilie@harys.is-a.dev",
+			url: "mailto:hello@profilie.harys.is-a.dev",
 			title: "Email"
 		},
 		telegram: {
@@ -79,14 +79,14 @@ const CONFIG = {
 			title: "Signal"
 		},
 		skype: {
-			enabled: true,
+			enabled: false,
 			url: "skype:YOUR_SKYPE_USERNAME?chat",
 			title: "Skype"
 		},
 
 		// Social Media Platforms
 		reddit: {
-			enabled: true,
+			enabled: false,
 			url: "https://reddit.com/user/your-username/",
 			title: "Reddit"
 		},
@@ -111,7 +111,7 @@ const CONFIG = {
 			title: "TikTok"
 		},
 		snapchat: {
-			enabled: true,
+			enabled: false,
 			url: "https://snapchat.com/add/your-username",
 			title: "Snapchat"
 		},
@@ -133,7 +133,7 @@ const CONFIG = {
 
 		// Professional Networks
 		linkedin: {
-			enabled: true,
+			enabled: false,
 			url: "https://linkedin.com/in/your-username",
 			title: "LinkedIn"
 		},
@@ -274,7 +274,7 @@ const CONFIG = {
 		// Personal Website/Portfolio
 		website: {
 			enabled: true,
-			url: "https://profilie.github.io/",
+			url: "https://profilie.js.org/",
 			title: "Profilie"
 		}
 	}
